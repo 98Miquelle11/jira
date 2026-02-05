@@ -124,6 +124,35 @@ we can **set column limit** for each column.
 ### 5. Create epics
 In this task we are going to manage our **roadmap** and create **Epics**.
 
+1. Click **Timeline**,
+2. Create **Phone Manager**, **Email Manager**, **Social Networking** epic,
+
+Under each of these Epics we will create a number of issues or a number of tasks.
+
+3. Click a **Phone Manager** Epic,
+4. Click **+** > **Create child work item**,
+
+You can create a new one or choose from an existing issue.
+
+5. Click **Choose existing**, then choose **Dialer**, **Call history**, **Contacts (add)**, **Contacts (read)**, **Speed history**. You should see view like this:
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/8.jpg?raw=true" width="800">
+
+6. Go back to Board. Now you have issues labeled with your Epic.
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/9.jpg?raw=true" width="800">
+
+7. Take your mouse to **Email Manager** Epic, the you will see a **+** (Create a child work item). Click it and create **Email contacts book manager** issue. You will see it on your Roadmap and Board.
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/10.jpg?raw=true" width="1100">
+
+### 7. Invite team members
+1. Move with your coursor to **...** next to your project name and click **Add people**,
+2. Write a name or email, add it from another company's name and attach member to its role,
+3. After getting a message **Invitation sent** you can click **View users** to see details.
+4. Accessing in the inbox, they will see an mail. THey can click project domain to see what is inside. To accept the invitation, they need to click **Join the team**. They will be ask to complete same type of questions.
+5. If you want to manage access, Move with your coursor to **...** next to your project name and click **Space settings** > **Access**.
+
 ---
 
 ### Final outcome of a project
