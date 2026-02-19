@@ -10,7 +10,7 @@
 * If you are looking for documentation, you can go to [Learner Help Center](https://www.coursera.support/s/learner-help-center).
 
 ## Few words about Agile framework
-An agile framework incorporates elements of continuous planning, testing, integration, and other forms of continuous development. Agile frameworks are lightweight compared to traditional development methods, which means that rules and practices are kept to a minimum.
+An Agile framework incorporates elements of continuous planning, testing, integration, and other forms of continuous development. Agile frameworks are lightweight compared to traditional development methods, which means that rules and practices are kept to a minimum.
 
 <img src="https://github.com/98Miquelle11/jira/blob/main/images/1.jpg?raw=true" width="1000">
 
@@ -92,7 +92,7 @@ A Kangan board works in columns, so we need to arrange and personalize our colum
 ---
 
 ### 3. Create issues
-In this task we are going to create issues. Let's say we are software development team that needs to deploy the phone functionalities, our mobile system - phone calls, contact management, speed dial etc. We will write a number of issuues, so things that need to be done.
+In this task we are going to create issues. Let's say we are software development team that needs to deploy the phone functionalities, our mobile system - phone calls, contact management, speed dial etc. We will write a number of issues, so things that need to be done.
 
 1. In "To do" column write **Dialer** and click ENTER. You can see your issue have unique identifier.
 2. Create **Call hisotry**, **Contacts (add)**, **Contacts (read)**, **Speed dial**, **Add favorites**.
