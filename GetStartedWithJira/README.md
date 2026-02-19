@@ -1,1 +1,0 @@
-## [Get started with Jira](https://www.coursera.org/projects/get-started-with-jira) course provided by [Angelo Paolillo](https://www.coursera.org/instructor/angelopaolillo) on [Coursera](https://www.coursera.org/).
