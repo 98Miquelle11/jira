@@ -28,6 +28,18 @@ You can refer [here](https://www.coursera.support/s/article/learner-000001247) f
 
 ---
 
+### Final outcome of a project
+We created an agile software project, we used the Kanban framework (Kanban board). We created different tasks grouped under an Epic and we learned what tasks, the stories or epics in an agile framework are. We created the board (we needed to develop the phone activity of the phone app or system), then devised the actions in different tasks. We created steps and workflow: different four columns to signify how the tasks are moving throughout the development process.
+
+We created a Timeline: we established frameworks and timeframes to work with the different development tasks and group them under one single Epic. So an overarching piece of development that will contain different tasks that are grouped by the same functionality, scope and objective. We learned hot to group the issues or tasks under a single Epic, choosing
+form existing tasks or creating new ones.
+
+We learned how to invite team members and assign different steps of development to each of them. We learned how to edit your workflow. 
+
+Within a specific issue or a specific task that is grouped under an Epic, we learned how to edit the workflow - we can create a linear process whenever we need it, establishing mandatory transitions or changes in status between one area and the next. So we learned how to edit our workflow the way we prefer, rather than using simply the workflow that the system presents us at the moment of creation of the project.
+
+---
+
 ### 1. Create a project and choose framework
 In this first task we are going to create free Jira account, a project and choose framework
 to get started with our agile work.
@@ -102,7 +114,7 @@ We could define the context as one single tasks and then having the functions of
 
 Generally, you define issues as tasks or subtasks by the scope of the issue.
 * The more define it, the more it will be into **Subtask**,
-* If it is helping us complete in a single piece of action, it will be a **Rask**,
+* If it is helping us complete in a single piece of action, it will be a **Task**,
 * Altogether, if they will go helping completing a larger objective, they might be grouped under an **Epic**.
 
 6. Move some of the issues to the next columns by clicking them. It may look like this:
@@ -146,6 +158,40 @@ You can create a new one or choose from an existing issue.
 
 <img src="https://github.com/98Miquelle11/jira/blob/main/images/10.jpg?raw=true" width="1100">
 
+---
+
+### 6. Manage workflow and transitions
+In this task we are going to manage the workflow. 
+
+1. Go back to the **Board**, on a top right corner, click the **...** icon and then **Manage Workflow**. You can see a visualization of your workflow:
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/11.jpg?raw=true" width="1000">
+
+You can point the cursor at the arrow between **START** and **TO DO**: then you will see **Create** option, which gives you opportunity to create new tasks. They will be automatically placed in **TO DO** status. Then it can be moved to any other status.
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/12.jpg?raw=true" width="300">
+
+You can make a rule restricting flexibility to move task between statuses. For example, for **DEPLOYED** we can allow a certain status - not any status. 
+
+2. Click **DEPLOYED**, then unclick *"Allow issues in any status to move to this one"*,
+3. Click the warning **"This status needs a transition"", them **Add a transition**,
+4. From statuses: **TEST** - the task can only go from TEST status into DEPLOY,
+5. Name: for example **Test completed**,
+6. Click **Create**. We can see the result:
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/13.jpg?raw=true" width="350">
+
+7. Click **Update workflow**. You can select the work types you want to copy this workflow to. Choose all (Epic, Subtask, Task). Then click **Save**.,
+
+8. Go back to the Board,
+
+<img src="https://github.com/98Miquelle11/jira/blob/main/images/14.jpg?raw=true" width="1000">
+
+9. Try to move **Add favorities** from DEVELOPMENT to DEPLOYED status. You are not able to do it.,
+10. Try to move **Contacts (read)** from TEST to DEPLOYED status. Now you can.
+
+---
+
 ### 7. Invite team members
 1. Move with your coursor to **...** next to your project name and click **Add people**,
 2. Write a name or email, add it from another company's name and attach member to its role,
@@ -155,12 +201,4 @@ You can create a new one or choose from an existing issue.
 
 ---
 
-### Final outcome of a project
-We created an agile software project, we used the Kanban framework (Kanban board). We created different tasks grouped under an Epic and we learned what tasks, the stories or epics in an agile framework are. We created the board (we needed to develop the phone activity of the phone app or system), then devised the actions in different tasks. We created steps and workflow: different four columns to signify how the tasks are moving throughout the development process.
 
-We created a Timeline: we established frameworks and timeframes to work with the different development tasks and group them under one single Epic. So an overarching piece of development that will contain different tasks that are grouped by the same functionality, scope and objective. We learned hot to group the issues or tasks under a single Epic, choosing
-form existing tasks or creating new ones.
-
-We learned how to invite team members and assign different steps of development to each of them. We learned how to edit your workflow. 
-
-Within a specific issue or a specific task that is grouped under an Epic, we learned how to edit the workflow - we can create a linear process whenever we need it, establishing mandatory transitions or changes in status between one area and the next. So we learned how to edit our workflow the way we prefer, rather than using simply the workflow that the system presents us at the moment of creation of the project.
