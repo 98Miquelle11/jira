@@ -2,7 +2,7 @@
 
 ## Few words about Jira
 * **Jira Core** – the basic platform. A simple, intuitive system for managing teamwork in any department,
-* **Jira Software** – SCRUM and Kanban boards, Agile reporting, work schedule (thanks to an additional Portfolio plugin). Jira also allows you to use combined methods for both boards, i.e., working within a mixed methodology called Kanplan. Similar to Scrumban, this methodology combines features of both Scrum and Kanban. Kanplan is ideal for teams that want to have a backlog but do not want to work in sprints.,
+* **Jira Software** – SCRUM and Kanban boards, Agile reporting, work schedule (thanks to an additional Portfolio plugin). Jira also allows you to use combined methods for both boards, i.e., working within a mixed methodology called Kanplan. Similar to Scrum, this methodology combines features of both Scrum and Kanban. Kanban is ideal for teams that want to have a backlog but do not want to work in sprints.,
 * **Jira Service Desk** - dedicated to teams that handle internal or external customer requests on a daily basis, with the ability to measure and report on SLAs,
 
 ## Amenities on Coursera
