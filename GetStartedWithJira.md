@@ -141,7 +141,7 @@ we can **set column limit** for each column.
 
 <img src="https://github.com/98Miquelle11/jira/blob/main/images/7.jpg?raw=true" width="600">
 
-### 5. Create epics
+### 5. Create Epics
 In this task we are going to manage our **roadmap** and create **Epics**.
 
 1. Click **Timeline**,
